@@ -15,7 +15,7 @@ Atividade número 4 da UC da Inteligência Artificial na UNIBH, pedida pelo prof
 
 python -m venv venv
 source venv/bin/activate  # No Linux/Mac
-# ou
+#### ou
 venv\Scripts\activate  # No Windows
 
 pip install -r requirements.txt # recria ambiente virtual local
