@@ -78,9 +78,9 @@ Para preparar o dataset para uso em nosso modelo de redes neurais, seguimos os s
 
 ### 6. Divisão dos Dados
 
-- **Conjunto de Treinamento**: 80% dos dados foram utilizados para treinar o modelo.
-- **Conjunto de Validação**: 10% dos dados serviram para validar e ajustar os hiperparâmetros.
-- **Conjunto de Teste**: 10% dos dados foram reservados para avaliar a performance final do modelo.
+- **Conjunto de Treinamento**: 70% dos dados foram utilizados para treinar o modelo.
+- **Conjunto de Validação**: 15% dos dados serviram para validar e ajustar os hiperparâmetros.
+- **Conjunto de Teste**: 15% dos dados foram reservados para avaliar a performance final do modelo.
 
 ### 7. Decisão de Uso no Modelo
 
