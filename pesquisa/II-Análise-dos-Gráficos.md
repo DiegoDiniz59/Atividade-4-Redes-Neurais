@@ -1,6 +1,6 @@
 # II  - Análise Detalhada dos Resultados
 
-![Gráfico de Confusão](https://imgur.com/78Ku4H2)
+![Matriz de Confusão](https://i.imgur.com/78Ku4H2.png)
 
 Acima estão os resultados da precisão do modelo ao tentar classificar corretamente os dados das músicas que recebeu entre “Popular” e “Não Popular”.  As linhas representam os rótulos verdadeiros (o valor real dos dados informados), enquanto as colunas representam os rótulos preditos pelo modelo.  
 
