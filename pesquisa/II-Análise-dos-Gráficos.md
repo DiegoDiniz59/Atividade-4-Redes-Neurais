@@ -10,8 +10,10 @@ Acima estão os resultados da precisão do modelo ao tentar classificar corretam
 - Verdadeiro Positivo (37): O número de músicas que eram realmente populares e foram corretamente classificadas como populares. Indica que o modelo tem alguma habilidade para reconhecer músicas que são populares.
 
 A alta quantidade de falsos negativos (34) e falsos positivos (26) indica que o modelo está tendo problemas em classificar músicas populares corretamente, e também está se confundindo ao achar que algumas músicas não populares são populares.
+
 Abaixo temos um gráfico mostrando a perda e a precisão do modelo durante o treinamento:
 
+![Perda e Precisão durante o Treinamento](https://i.imgur.com/jcCrWt2.png)
 
 O gráfico à esquerda mostra a perda do modelo ao longo das épocas para os conjuntos de treino e validação. O eixo X representa o número de épocas, e o eixo Y representa o valor de perda.
 
